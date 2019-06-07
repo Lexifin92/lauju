@@ -1,0 +1,14 @@
+uuid: e70d5d50-dc1c-4f2d-ad94-a6ef4c444f3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - s1900573@edu.bc.fi
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

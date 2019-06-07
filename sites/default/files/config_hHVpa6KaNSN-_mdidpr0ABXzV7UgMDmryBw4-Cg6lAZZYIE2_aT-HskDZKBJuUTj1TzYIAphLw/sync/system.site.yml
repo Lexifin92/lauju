@@ -1,0 +1,14 @@
+uuid: e14185d0-1490-4bda-a8c2-24c168ee34c3
+name: 'Lauran ja Jutan portfolio GENERATOR'
+mail: s1900573@edu.bc.fi
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

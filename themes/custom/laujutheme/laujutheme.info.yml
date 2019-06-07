@@ -1,0 +1,12 @@
+name: laujutheme
+type: theme
+description: 'Laura ja Jutan portfolion teema'
+core: 8.x
+libraries:
+  - laujutheme/global-styling
+base theme: classy
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer
