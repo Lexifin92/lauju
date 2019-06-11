@@ -1,0 +1,9 @@
+uuid: 0f58cd57-fc95-4f12-9e64-3fe322855ade
+langcode: en
+status: true
+dependencies: {  }
+id: portfolio_creator
+label: 'Portfolio creator'
+weight: 3
+is_admin: null
+permissions: {  }
