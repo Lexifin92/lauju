@@ -1,11 +1,11 @@
 uuid: e14185d0-1490-4bda-a8c2-24c168ee34c3
-name: 'Lauran ja Jutan portfolio GENERATOR'
+name: 'Wed Dev Portfolios'
 mail: s1900573@edu.bc.fi
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /node
+  front: /node/2
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
