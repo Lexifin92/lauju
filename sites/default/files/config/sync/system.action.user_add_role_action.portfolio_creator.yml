@@ -1,0 +1,14 @@
+uuid: 39e9cd55-3da4-4f7c-8402-3e4255fe9346
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.portfolio_creator
+  module:
+    - user
+id: user_add_role_action.portfolio_creator
+label: 'Add the Portfolio creator role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: portfolio_creator
