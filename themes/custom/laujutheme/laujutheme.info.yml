@@ -7,6 +7,9 @@ libraries:
 base theme: classy
 regions:
   header: Header
+  primary_menu: 'Primary menu'
   content: Content
   sidebar_first: 'Sidebar first'
-  footer: Footer
+  sidebar_second: 'Sidebar second'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'

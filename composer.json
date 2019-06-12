@@ -10,7 +10,8 @@
         "drupal/webform": "^5.2",
         "drupal/image_effects": "^2.3",
         "drupal/file_mdm": "^1.1",
-        "drupal/admin_toolbar": "^1.27"
+        "drupal/admin_toolbar": "^1.27",
+        "drupal/pathauto": "^1.4"
     },
     "replace": {
         "drupal/core": "^8.7"
