@@ -1,6 +1,6 @@
 uuid: 1b213b94-1638-4a74-b256-8c6c8a686af8
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - system.menu.main
@@ -11,7 +11,7 @@ dependencies:
     - laujutheme
 id: mainnavigation
 theme: laujutheme
-region: primary_menu
+region: header
 weight: 0
 provider: null
 plugin: 'system_menu_block:main'

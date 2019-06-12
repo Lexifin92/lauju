@@ -2,7 +2,6 @@ name: laujutheme
 type: theme
 description: 'Laura ja Jutan portfolion teema'
 core: 8.x
-logo: 'files/webdevportf.png'
 libraries:
   - laujutheme/global-styling
 base theme: classy

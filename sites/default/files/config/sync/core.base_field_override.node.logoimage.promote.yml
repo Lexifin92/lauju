@@ -1,0 +1,22 @@
+uuid: 2df17b87-77ed-4b3f-9c4d-2bd7a95cbdaa
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.logoimage
+id: node.logoimage.promote
+field_name: promote
+entity_type: node
+bundle: logoimage
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,28 @@
+uuid: d9483aca-d8fd-450e-b7b0-a22fdc756052
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.logoimage.body
+    - node.type.logoimage
+  module:
+    - text
+    - user
+id: node.logoimage.default
+targetEntityType: node
+bundle: logoimage
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }

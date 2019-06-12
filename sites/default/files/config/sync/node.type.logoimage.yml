@@ -1,0 +1,17 @@
+uuid: 9961e204-632f-403d-a18c-90d6db04457f
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: logoimage
+type: logoimage
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

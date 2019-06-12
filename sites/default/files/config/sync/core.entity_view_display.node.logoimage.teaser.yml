@@ -1,0 +1,30 @@
+uuid: 1f17a88a-e899-49b7-aee4-78e9de6a85ab
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.logoimage.body
+    - node.type.logoimage
+  module:
+    - text
+    - user
+id: node.logoimage.teaser
+targetEntityType: node
+bundle: logoimage
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }
