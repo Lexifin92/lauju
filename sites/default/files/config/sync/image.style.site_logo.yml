@@ -1,0 +1,19 @@
+uuid: 46a0fc10-f9eb-4d54-9476-54fd6301f0e4
+langcode: en
+status: true
+dependencies:
+  module:
+    - image_effects
+name: site_logo
+label: 'site logo'
+effects:
+  2a2ee9e9-0288-485f-bc9c-c1a35be600ef:
+    uuid: 2a2ee9e9-0288-485f-bc9c-c1a35be600ef
+    id: image_effects_scale_and_smart_crop
+    weight: 1
+    data:
+      width: ''
+      height: '80'
+      upscale: false
+      simulate: false
+      algorithm: entropy_slice

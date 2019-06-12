@@ -1,3 +1,10 @@
 #block-laujutheme-branding {
     background: blue;
+    display: flex;
+}
+.site-logo > img {
+    height: 160px;
+}
+.site-name {
+    color: red;
 }
