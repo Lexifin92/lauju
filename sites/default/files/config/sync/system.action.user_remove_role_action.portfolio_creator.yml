@@ -1,0 +1,14 @@
+uuid: ac7cbf2c-c858-4f0e-94b2-1a9706ec03f6
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.portfolio_creator
+  module:
+    - user
+id: user_remove_role_action.portfolio_creator
+label: 'Remove the Portfolio creator role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: portfolio_creator
